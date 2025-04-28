@@ -1,6 +1,6 @@
 **LAMPIRAN PEMBAGIAN TUGAS & TEKNIK KONSTRUKSI**
 
-**Judul Proyek**: API Quotes Anime\
+**Judul Proyek**: API Quotes\
 **Jumlah Anggota**: 5 orang\
 **Teknik Konstruksi yang Digunakan**:
 
