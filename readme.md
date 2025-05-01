@@ -201,19 +201,6 @@ Generate Quotes hanya menggunakan bahasa jawa dengan endpoint '/quote?lang=Sunda
 ```
 ---
 
-## Struktur File
-
-```
-QuotesApp_Backend/
-├── app.py               # Main Flask app
-├── utils.py             # Helper functions
-├── quotes.json          # Data kutipan
-├── requirements.txt     # Python dependencies
-└── README.md            # Dokumentasi API
-```
-
----
-
 ## Program Dibuat oleh
 
 ### Kelompok TUBES KPL  
