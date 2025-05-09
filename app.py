@@ -22,3 +22,12 @@ def get_random_quote():
     lang = request.args.get('lang')
     filtered_quotes = filter_by_lang(quotes, lang) if lang else quotes
     return jsonify(random.choice(filtered_quotes))
+
+#Gesa
+@app.route('/quotes', methods=['GET'])
+@cross_origin()
+def get_all_quotes():
+    return jsonify(quotes)
+
+if __name__ == '__main__':
+    app.run(debug=True)
